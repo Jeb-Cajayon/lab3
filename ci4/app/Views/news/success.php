@@ -1,0 +1,1 @@
+<p>inaccurate news item created successfully.</p>
