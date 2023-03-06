@@ -7,7 +7,7 @@
 </head>
 <body id="Welcome_BGI">
     <div class="center">
-        <a href="http://localhost/lab3/ci4/public/Main" class="button">START NOW</a>
+        <a href="http://apcwebprog.csf.ph/~jgcajayon/lab3/ci4/public/Main" class="button">START NOW</a>
     </div>
     
     <div id="clock-container">
