@@ -1,0 +1,157 @@
+#Welcome_BGI{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Relax(Resize).gif');
+    background-size: 100% auto;
+    margin:auto;
+}
+
+#Main_BGI{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Hub2(Resize).gif');
+    background-size: 100% auto;
+    margin:auto;
+}
+
+#Personal_BGI{
+    background: linear-gradient(to right, rgba(255, 255, 255, 0.25), rgba(0, 0, 0, 0.5)), url('../Images/Hub(Resize).gif');
+    background-size: 100% auto;
+    margin:auto;
+}
+
+#Interests_BGI{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url('../Images/Hub3.gif');
+    background-size: 100% auto;
+    margin:auto;
+}
+
+nav{
+    background-color: #333;
+    height: 100px;
+    overflow:hidden;
+}
+
+nav ul{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;
+}
+
+nav li{
+    margin: 0;
+    padding: 0;
+}
+
+nav img{
+    height: 100%;
+}
+
+nav a{
+    display: block;
+    height: 100%;
+    padding: 0 20px;
+    color: white;
+    text-decoration: none;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+nav a:hover {
+    background-color: #555;
+}
+
+@font-face {
+    font-family: PressStart2P;
+    src: url('../FONTS/PressStart2P-vaV7.ttf');
+}
+
+.nav_text{
+    position: center;
+    margin: 0px;
+    padding: 0px;
+    font-family:PressStart2P;
+}
+
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+  }
+
+.button {
+    display: inline-block;
+    background-color: #000000;
+    color: white;
+    padding: 12px 24px;
+    text-align: center;
+    text-decoration: none;
+    font-family: PressStart2P;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+#clock-container {
+    position: fixed;
+    top: 10px;
+    right: 10px;
+}
+#clock {
+    color: rgb(255, 255, 255);
+    font-size: 24px;
+    font-family: PressStart2P;
+}
+#timer {
+    color: rgb(255, 255, 255);
+    font-family: PressStart2P;
+  }
+
+.text{
+    font-family: PressStart2P;
+    text-align:center;
+    margin-top:50px;
+    color: white;
+}
+
+.info-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: 10px solid black;
+    padding: 0px;
+    margin-top: 20px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: rgba(255, 255, 255, 0.25);
+    font-family: PressStart2P;
+}
+
+.info-img {
+    border-right: 10px solid black;
+    margin-right: 10px;
+}
+
+.info-img img {
+    width:250px;
+    display: block;
+}
+
+.info-text {
+    flex: 1;
+    color: black;
+}
+
+.info-text h3 {
+    font-size: 24px;
+    margin: 0;
+    padding: 0;
+}
+
+.info-text p {
+    font-size: 18px;
+    margin: 10px 0 0 0;
+    padding: 0;
+}
+  
