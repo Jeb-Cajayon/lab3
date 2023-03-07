@@ -12,7 +12,7 @@
             <li><a href="http://apcwebprog.csf.ph/~jgcajayon/lab3/ci4/public/Interests"><img src="Images/interest.png"></a><h3 class = nav_text>INTERESTS</h3></li>
             <li><a href="http://apcwebprog.csf.ph/~jgcajayon/lab3/ci4/public/index"><img src="Images/icon.png"></a></li>
             <li><a href="https://youtu.be/34Ig3X59_qA"><img src="Images/resources.png"></a><h3 class = nav_text>RESOURCES</h3></li>
-            <li><a href="https://youtu.be/34Ig3X59_qA"><img src="Images/form.png"></a><h3 class = nav_text>FORMS</h3></li>
+            <li><a href="http://apcwebprog.csf.ph/~jgcajayon/lab3/ci4/public/guest/create"><img src="Images/form.png"></a><h3 class = nav_text>FORMS</h3></li>
         </ul>
     </nav>
 

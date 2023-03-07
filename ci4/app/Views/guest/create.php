@@ -23,3 +23,6 @@
 
     <input type="submit" name="submit" value="Create guest entry">
 </form>
+
+<a href="http://apcwebprog.csf.ph/~jgcajayon/lab3/ci4/public/Main">Go Back to Main page</a><br>
+<a href="http://apcwebprog.csf.ph/~jgcajayon/lab3/ci4/public/guest">Check others' comments here</a><br>

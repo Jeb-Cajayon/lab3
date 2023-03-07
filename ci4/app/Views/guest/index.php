@@ -18,3 +18,5 @@
     <p>Unable to find any guest for you.</p>
 
 <?php endif ?>
+<br><a href="http://localhost/lab3/ci4/public/Main">Go Back to Main page</a><br>
+<a href="http://apcwebprog.csf.ph/~jgcajayon/lab3/ci4/public/guest/create">Go Back to create page</a><br>
