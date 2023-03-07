@@ -6,7 +6,7 @@ use CodeIgniter\Model;
 
 class GuestModel extends Model
 {
-    protected $table = 'myguests';
+    protected $table = 'jgcajayon_guests';
 
     protected $allowedFields = ['name','website','email','comment'];
 
